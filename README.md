@@ -10,16 +10,12 @@ By: [Wilis Araújo](https://www.instagram.com/wiliswasunb/)
 
 ## 💻 Resumos das Aulas
 
-| Aulas | Resumos |
+| Aulas | Resumo |
 |-------|---------|
 |Gravando Alterações no Repositório Local | [Resumos] (https://web.dio.me/course/) |
 
 ---
 git init 
-----
-git clone 
-----
-git status 
 ----
 
 ## 🔍 Referências
