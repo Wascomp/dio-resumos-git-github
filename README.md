@@ -2,7 +2,7 @@
 
 Repositório para armazenar resumos sobre Git e Github do curso Versionamento de Código com Git e Github da [Digital Innovation One](https://www.dio.me/)
 
-By: [Wilis Araújo](https://www.instagram.com/wiliswasunb/)
+By: [Wilis Araújo](https://www.dio.me/users/wilismar_silva)
 
 ## 📚 Documentação
  [Documentação Git](https://git-scm.com/doc)
